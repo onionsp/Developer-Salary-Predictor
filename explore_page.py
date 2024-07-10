@@ -33,7 +33,7 @@ def clean_education(experience):
 
 @st.cache_resource
 def load_data():
-    df = pd.read_csv("/Users/jsc/Documents/Personal/Dev/ML Projects/Developer Salary /data/survey_results_public.csv")
+    df = pd.read_csv("./data/survey_results_public.csv")
     df = df[["Country", "EdLevel", "YearsCodePro", "Employment", "ConvertedCompYearly"]]
     df = df.dropna()
     df = df[df['Employment'] == 'Employed, full-time']

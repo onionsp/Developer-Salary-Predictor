@@ -3,4 +3,5 @@ matplotlib
 pandas
 matplotlib
 streamlit
+numpy
 

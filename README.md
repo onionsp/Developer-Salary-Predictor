@@ -1,2 +1,2 @@
 # Software Developer Salary Predictor
-http://localhost:8502
+https://onionsp-developer-salary-predictor-app-mdmqve.streamlit.app/

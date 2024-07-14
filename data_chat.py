@@ -7,7 +7,7 @@ from pandasai.llm import GoogleGemini
 TOKEN = st.secrets["TOKEN"]
 
 def show_data_chat():
-    st.write("# reChat with Developer Survey Dataset")
+    st.write("# Chat with Developer Survey Dataset")
 
     df = pd.read_csv("./data/survey_results_public.csv")
 

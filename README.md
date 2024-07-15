@@ -1,7 +1,9 @@
 # Software Developer Salary Predictor
 Link: https://onionsp-developer-salary-predictor-app-mdmqve.streamlit.app/
 
-<img src="https://github.com/onionsp/Developer-Salary-Predictor/blob/main/Screenshots/Screenshot%202024-07-14%20at%207.53.49%E2%80%AFPM.png" width="300">
+<img src="https://github.com/onionsp/Developer-Salary-Predictor/blob/main/Screenshots/Screenshot%202024-07-14%20at%207.53.49%E2%80%AFPM.png" width="600">
+<img src="https://github.com/onionsp/Developer-Salary-Predictor/blob/main/Screenshots/Screenshot%202024-07-14%20at%207.53.59%E2%80%AFPM.png" width="600">
+<img src="https://github.com/onionsp/Developer-Salary-Predictor/blob/main/Screenshots/Screenshot%202024-07-14%20at%207.54.06%E2%80%AFPM.png" width="600">
 
 
 ## Description

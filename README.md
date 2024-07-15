@@ -1,4 +1,4 @@
-# Software Developer Salary Predictor
+# Software Developer Salary Predictor + Gemini LLM
 Link: https://onionsp-developer-salary-predictor-app-mdmqve.streamlit.app/
 
 <img src="https://github.com/onionsp/Developer-Salary-Predictor/blob/main/Screenshots/Screenshot%202024-07-14%20at%207.53.49%E2%80%AFPM.png" width="600">

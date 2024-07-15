@@ -1,4 +1,3 @@
-import os
 import streamlit as st
 import pandas as pd
 from pandasai import SmartDataframe
@@ -23,7 +22,6 @@ def show_data_chat():
             df,
             config={
                 "llm": llm,
-            
             },
         ) 
         answer = query_engine.chat(query)
